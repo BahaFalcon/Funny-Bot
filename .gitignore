@@ -1,6 +1,8 @@
 settings.py
 .idea/
 __pycache__/
+my_images
+mydata.db
 db.sqlite3
 db.sqlite3-journal
 media
